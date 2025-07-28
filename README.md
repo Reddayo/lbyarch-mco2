@@ -29,15 +29,16 @@ main.exe
 
 The output of the C implementation was cross checked using the Desmos calculator.
 
-![c_check_0.png](./resources/c_check_0.png)
-![c_check_1.png](./resources/c_check_1.png)
+![c_check_0](./resources/c_check_0.png)
+![c_check_1](./resources/c_check_1.png)
 
 ### Assembly
 
 The output of the x86-64 SIMD assembly implementation was validated by comparing it directly with the result from the C function.
 
-![asm_check_0.png](./resources/asm_check_0.png)
-![asm_check_0.png](./resources/asm_check_1.png)
+![asm_check_0](./resources/asm_check_0.png)
+![asm_check_1](./resources/asm_check_1.png)
 
 ## Demo Video
-
+[![lbyarch_demo_local](./resources/lbyarch_mco2_demo_thumbnail.png)](./resources/lbyarch_mco2_demo.mp4)
+[Watch via Google Drive](https://drive.google.com/file/d/1TdsI49Lmo9btyTnaiC44P06NHYoFmYEr/view?usp=sharing)
